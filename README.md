@@ -1,4 +1,7 @@
+<h1 align="center">Detecția și eliminarea automată a obiectelor din imagini</h1>
+
 ## Analiza literaturii de specialitate (ultimii 5 ani)
+
 
 | Nr | Autor(i) / An | Titlul articolului / proiectului | Aplicație / Domeniu | Tehnologii utilizate | Metodologie / Abordare | Rezultate | Limitări | Comentarii suplimentare |
 |----|----------------|----------------------------------|----------------------|----------------------|-------------------------|------------|------------|---------------------------|
